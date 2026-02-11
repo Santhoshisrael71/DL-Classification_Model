@@ -3,9 +3,6 @@
 ## AIM
 To develop a neural network classification model for the given dataset.
 
-### Name: SANTHOSH P
-
-### Register Number: 212224220088
 
 ## THEORY
 The Iris dataset consists of 150 samples from three species of iris flowers (Iris setosa, Iris versicolor, and Iris virginica). Each sample has four features: sepal length, sepal width, petal length, and petal width. The goal is to build a neural network model that can classify a given iris flower into one of these three species based on the provided features.
@@ -39,15 +36,7 @@ Evaluate the model on the test data and calculate accuracy.
 
 Display the test accuracy, confusion matrix, and classification report.
 
-
-
-## PROGRAM
-
-
-### Dataset Information
-
-
-### OUTPUT
+### PROGRAM
 
 
 ## RESULT
