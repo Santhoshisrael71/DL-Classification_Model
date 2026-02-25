@@ -8,3 +8,18 @@ tensorflow
 keras
 jupyter
 opencv-python
+
+
+# Required Libraries for CNN Classification Project
+```
+import numpy
+import matplotlib
+import sklearn
+import pandas
+import torch
+import torchvision
+import tensorflow
+import keras
+import cv2
+
+```
