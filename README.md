@@ -1,45 +1,53 @@
-# Developing a Neural Network Classification Model
+# Developing a Convolutional Neural Network (CNN) Classification Model
 
-## AIM
-To develop a neural network classification model for the given dataset.
+##  Repository Overview
 
-
-## THEORY
-The Iris dataset consists of 150 samples from three species of iris flowers (Iris setosa, Iris versicolor, and Iris virginica). Each sample has four features: sepal length, sepal width, petal length, and petal width. The goal is to build a neural network model that can classify a given iris flower into one of these three species based on the provided features.
-
-## Neural Network Model
-Include the neural network model diagram.
-
-## DESIGN STEPS
-### STEP 1: 
-
-Load the Iris dataset using a suitable library.
-
-### STEP 2: 
-
-Preprocess the data by handling missing values and normalizing features.
-
-### STEP 3: 
-
-Split the dataset into training and testing sets.
-
-### STEP 4: 
-
-Train a classification model using the training data.
+This repository contains the implementation of a Convolutional Neural Network (CNN) for classification tasks using Deep Learning techniques. The project demonstrates how CNN models can be trained, evaluated, and used for prediction using Python and popular machine learning libraries.
 
 
-### STEP 5: 
 
-Evaluate the model on the test data and calculate accuracy.
+## Objectives
 
-### STEP 6: 
+* To understand Convolutional Neural Network (CNN) architecture
+* To implement a CNN model for classification
+* To train and evaluate the model using dataset
+* To visualize performance metrics such as accuracy and loss
+* To perform predictions on new data
 
-Display the test accuracy, confusion matrix, and classification report.
+---
 
-### PROGRAM
+##  Technologies Used
+
+* Python
+* TensorFlow / Keras or PyTorch
+* NumPy
+* Matplotlib
+* Scikit-learn
+* Jupyter Notebook
+
+---
 
 
-## RESULT
-Thus, a neural network classification model was successfully developed and trained using PyTorch
+---
+
+##  CNN Architecture
+
+The CNN model consists of:
+
+* Convolution Layers
+* Activation Function (ReLU)
+* Pooling Layers
+* Fully Connected Layers
+* Output Layer (Softmax)
 
 
+
+##  Results
+
+The model performance is evaluated using:
+
+* Training Accuracy
+* Validation Accuracy
+* Loss Graph
+* Confusion Matrix
+* Classification Report
