@@ -1,5 +1,5 @@
 # Developing a Convolutional Neural Network (CNN) Classification Model
-
+----
 ##  Repository Overview
 
 This repository contains the implementation of a Convolutional Neural Network (CNN) for classification tasks using Deep Learning techniques. The project demonstrates how CNN models can be trained, evaluated, and used for prediction using Python and popular machine learning libraries.
@@ -28,7 +28,6 @@ This repository contains the implementation of a Convolutional Neural Network (C
 ---
 
 
----
 
 ##  CNN Architecture
 
@@ -40,6 +39,8 @@ The CNN model consists of:
 * Fully Connected Layers
 * Output Layer (Softmax)
 
+  
+---
 
 
 ##  Results
